@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PySimplePlot", "PySimplePlot\PySimplePlot.pyproj", "{E0E8028A-280B-4DDC-94A3-EEE73F0DA6B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0E8028A-280B-4DDC-94A3-EEE73F0DA6B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0E8028A-280B-4DDC-94A3-EEE73F0DA6B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5442C493-EEC6-405E-A3E2-A94BB80D0D69}
+	EndGlobalSection
+EndGlobal
