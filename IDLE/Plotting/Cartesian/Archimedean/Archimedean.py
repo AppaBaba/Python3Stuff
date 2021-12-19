@@ -1,6 +1,6 @@
-# Python 3.7.4 program for plotting Archimedean Spiral
-# Works with Anconda3 (5.2.0) using VS Python Suport
-# Source code can be used in Spyder also
+# Python 3.9 program for plotting Archimedean Spiral
+# Runs on both Mac and PC with IDLE
+# Source code can be used for Anaconda and Spyder
 
 from numpy import radians, linspace, cos, sin
 from pylab import plot, show

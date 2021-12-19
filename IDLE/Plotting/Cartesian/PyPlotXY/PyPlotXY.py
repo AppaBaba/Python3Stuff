@@ -1,6 +1,6 @@
-# Python 3.7.4 program for plotting
-# Works with Anconda3 (5.2.0) using VS Python Suport
-# Source code can be used in Spyder also
+# Python 3.9 program for plotting Line
+# Runs on both Mac and PC with IDLE
+# Source code can be used for Anacoda and Spyder
 
 from pylab import plot, show
 x = [4, 6, 8]

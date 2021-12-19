@@ -1,6 +1,6 @@
-# Python 3.7.4 program for plotting the square
-# Works with Anconda3 (5.2.0) using VS Python Suport
-# Source code can be used in Spyder also
+# Python 3.9 program for plotting the square
+# Runs on both Mac and PC with ILDE
+# Source code can be used for Anaconda and Spyder
 
 import scipy as sci
 import matplotlib.pylab as sq
