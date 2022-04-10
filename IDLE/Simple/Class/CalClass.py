@@ -1,14 +1,14 @@
 class oopCal:
 
 
-   def add(self,n1,n2):
-      print(n1+n2)
-   def sub(self,n1,n2):
-      print(n1-n2)   
-   def mul(self,n1,n2):
-      print(n1*n2)
-   def div(self,n1,n2):
-      print(n1 / n2)
+   def add(self, n1, n2):
+      print(n1, '+' ,n2, '=', n1 + n2)
+   def sub(self, n1, n2):
+      print(n1, '-', n2, '=', n1 - n2)   
+   def mul(self, n1, n2):
+      print(n1, 'x', n2, '=', n1 * n2)
+   def div(self, n1, n2):
+      print(n1, '/', n2, '=', n1 / n2)
 
 an01 = oopCal()
 an02 = oopCal()
